@@ -52,6 +52,7 @@ python3 main.py
 
 - [TLDR Pages](https://github.com/janoka/tldr)
 - [Deepl API for automated translation](https://www.deepl.com/pro#developer)
+  - [Deepl Pro Licenc](https://www.deepl.com/en/pro-license)
 - [Python](https://www.python.org/)
   - [Python PIP](https://pypi.org/project/pip/)
   - [Python Virtual Environment](https://docs.python.org/3/library/venv.html)

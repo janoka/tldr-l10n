@@ -64,7 +64,7 @@ def target(source: str):
 if __name__ == '__main__':
     sources = parse_source_folder()
 
-    for source in sources[0:1400]:
+    for source in sources[0:3900]:
         md = readfile(source)
         target_file = target(source)
 
